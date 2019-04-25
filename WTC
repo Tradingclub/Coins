@@ -1,0 +1,20 @@
+1. name
+world television coin string
+2. totalSupply
+21000000000 uint256
+3. decimals
+0 uint8
+4. version
+H0.1 string
+5. balanceOf
+_owner (address)
+   _owner (address)
+ balance uint256
+6. symbol
+wtc string
+7. allowance
+_owner (address)
+   _owner (address)
+_spender (address)
+   _spender (address)
+ remaining uint256
